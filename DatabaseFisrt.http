@@ -1,0 +1,6 @@
+@DatabaseFisrt_HostAddress = http://localhost:5144
+
+GET {{DatabaseFisrt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
